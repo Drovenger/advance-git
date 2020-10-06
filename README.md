@@ -5,3 +5,5 @@ Minh sjhfosdhfsdj
 Hiếu ăn cứt
 
 hung hfjsdfuwef;u
+
+Minh code initialization
