@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4581826e-ec0d-4f7a-90c7-926b257237f8" name="Default Changelist" comment="" />
+    <list default="true" id="604fe872-a32b-493a-bc7f-25627d83bf73" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +53,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4581826e-ec0d-4f7a-90c7-926b257237f8" name="Default Changelist" comment="" />
+      <changelist id="604fe872-a32b-493a-bc7f-25627d83bf73" name="Default Changelist" comment="" />
       <created>1601966511615</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -61,6 +61,7 @@
       <workItem from="1601966514810" duration="329000" />
       <workItem from="1601966897040" duration="515000" />
       <workItem from="1601967438518" duration="345000" />
+      <workItem from="1601968705640" duration="404000" />
     </task>
     <servers />
   </component>
@@ -72,7 +73,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="minh" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
