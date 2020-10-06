@@ -16,24 +16,27 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="604fe872-a32b-493a-bc7f-25627d83bf73" name="Default Changelist" comment="" />
+    <list default="true" id="80ba28b4-96f2-437c-bc3f-fb514ebc6e6b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1iUeHjYyFAuEJLpFfBsfSit969V" />
+  <component name="ProjectId" id="1iUf1GNUXHGgSksd9nQQBWOypZC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -46,22 +49,24 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="604fe872-a32b-493a-bc7f-25627d83bf73" name="Default Changelist" comment="" />
-      <created>1601966511615</created>
+      <changelist id="80ba28b4-96f2-437c-bc3f-fb514ebc6e6b" name="Default Changelist" comment="" />
+      <created>1601966873421</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1601966511615</updated>
-      <workItem from="1601966514810" duration="329000" />
-      <workItem from="1601966897040" duration="515000" />
-      <workItem from="1601967438518" duration="345000" />
-      <workItem from="1601968705640" duration="404000" />
+      <updated>1601966873421</updated>
+      <workItem from="1601966874702" duration="95000" />
+      <workItem from="1601966973415" duration="47000" />
+      <workItem from="1601967024899" duration="3000" />
+      <workItem from="1601967421535" duration="1319000" />
     </task>
     <servers />
   </component>
@@ -79,7 +84,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="minh" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
@@ -90,18 +95,15 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$/.." />
-      <path value="$PROJECT_DIR$/gzbook-frontend" />
-    </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="461" y="165" key="SettingsEditor" timestamp="1601967269160">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="448" y="167" key="#Project_Structure" timestamp="1601966967879">
+      <screen x="0" y="23" width="1920" height="1125" />
     </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601967269160" />
+    <state x="448" y="167" key="#Project_Structure/0.23.1920.1125@0.23.1920.1125" timestamp="1601966967879" />
+    <state x="598" y="354" key="MultipleFileMergeDialog" timestamp="1601968422403">
+      <screen x="0" y="23" width="1920" height="1125" />
+    </state>
+    <state x="598" y="354" key="MultipleFileMergeDialog/0.23.1920.1125@0.23.1920.1125" timestamp="1601968422403" />
   </component>
 </project>
