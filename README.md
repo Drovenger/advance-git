@@ -2,8 +2,9 @@
 Dong
 Minh sjhfosdhfsdjfsdjf
 Minh sjhfosdhfsdj
-Hiếu ăn cứt
+Dong ăn cứt
 
 hung hfjsdfuwef;u
+Hieu viet function cho fac-41
 
 Minh code initialization
