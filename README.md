@@ -1,4 +1,2 @@
 "# advance-git" 
-Dong
-
-hung hong lan dau
+Hiếu ăn cứt
